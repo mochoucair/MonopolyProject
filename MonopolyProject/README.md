@@ -34,7 +34,8 @@ java MonopolyGame
 
 ## Repository URL
 
-Add the hosted repository URL here after you push this folder to your Git provider.
+[https://github.com/mchoucair/MonopolyProject](https://github.com/mchoucair/MonopolyProject)
+
 ## Screenshot
 
 ![Mini Monopoly running](game-running.png)
